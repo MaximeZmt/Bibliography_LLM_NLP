@@ -10,7 +10,9 @@ a collection of papers and articles on LLM &amp; NLP Topics
 - https://modelcontextprotocol.io/
 - https://arxiv.org/pdf/2108.07732
 - https://arxiv.org/pdf/2303.11366
+- https://huggingface.co/blog/moe
 
+  
 - Topics: SRDD (Software Requirement Description Dataset) ?
 
 Technical:
